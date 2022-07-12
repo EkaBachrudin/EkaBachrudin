@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PT Mineral Alam Abadi<br>🌱 I’m currently work as web developer
+🔭 I’m currently working on PT Mineral Alam Abadi as web developer <br>
 
 
 ## 🌐 Socials:
